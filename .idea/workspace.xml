@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca264b6c-2673-4063-a231-f73344e02194" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HospitalManagementSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/management/system/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/management/system/HospitalManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/management/system/Patient.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca264b6c-2673-4063-a231-f73344e02194" name="Changes" comment="Added Hospital Management System Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658469585373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Hospital Management System Program">
+      <created>1658505190279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658505190279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Hospital Management System Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Hospital Management System Program" />
   </component>
 </project>
